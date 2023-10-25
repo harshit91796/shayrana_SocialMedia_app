@@ -1,0 +1,12 @@
+.profileBottomBar{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    color: black;
+    margin: 20px;
+    gap: -10px;
+    width: 500px;
+    margin-left: 25%;
+    cursor: pointer;
+
+}
